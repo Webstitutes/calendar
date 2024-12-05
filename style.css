@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+ .calender{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    
+    justify-content: center;
+ }
+ 
+
+.boxes{
+    background-color: antiquewhite;
+     display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+
+   height: 400px;
+   margin: 20px 20px;
+ 
+}
+.box{
+   border: 1px solid grey;
+   display: flex;
+       align-items: center;
+   justify-content: center;
+  
+}
+
+ 
+.calender1{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    
+    justify-content: center;
+ }
+ 
+
+.boxes{
+    background-color: antiquewhite;
+     display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+
+   height: 400px;
+   margin: 20px 20px;
+ 
+}
+.box{
+   border: 1px solid grey;
+   display: flex;
+       align-items: center;
+   justify-content: center;
+  
+}
+
+
+.calender2{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    
+    justify-content: center;
+ }
+ 
+
+.boxes{
+    background-color: antiquewhite;
+     display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+
+   height: 400px;
+   margin: 20px 20px;
+ 
+}
+.box{
+   border: 1px solid grey;
+   display: flex;
+       align-items: center;
+   justify-content: center;
+  
+}
+
+
+
+
+
+
+
+.calender3{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    
+    justify-content: center;
+ }
+ 
+
+.boxes{
+    background-color: antiquewhite;
+     display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+
+   height: 400px;
+   margin: 20px 20px;
+ 
+}
+.box{
+   border: 1px solid grey;
+   display: flex;
+       align-items: center;
+   justify-content: center;
+  
+}
